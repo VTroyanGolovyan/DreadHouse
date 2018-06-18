@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  white-space: nowrap;
+  background-color: black;
+}
+#game {
+  display: block;
+}
+#counters {
+ display: block;
+}
+canvas{
+  margin:0;
+}
+.game_div{
+
+  vertical-align:top;
+  width:960px;
+  background:black;
+  padding:4px;
+
+}
+
+.footer{
+  border-top:solid white 1px;
+  background: black;
+  width:960px;
+  padding: 4px;
+  font-size: 24px;
+}
+.footer a{
+  color:red;
+}
